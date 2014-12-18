@@ -1,0 +1,37 @@
+/* 
+  localizable.strings
+  mikuji2
+
+  Created by Ryu I on 2014/12/04.
+  Copyright (c) 2014年 Remi. All rights reserved.
+*/
+
+"はじめる" = "Start";
+
+"もどる" = "Return";
+
+"決める" = "Decide";
+
+"勉強する教科を選ぼう！" = "Let's decide subject!";
+
+"ついでに時間も選ぶ" = "I'll decide studing time";
+
+"迷っている教科を入力！" = "Let's enter subject!";
+
+"全部埋めなくても大丈夫" = "";　　←ここ本当に分かんない…
+
+"1時間" = "1 hour";
+
+"50分" = "50 minutes";
+
+"30分" = "30 minutes";
+
+"20分" = "20 minutes";
+
+"はじめにもどる" = "Return in the first screen"
+
+"こいつのプロフィール 名前:こいつ　性別:男子 年齢:13歳　体長:10cm 「あいつ」と「そいつ」という友達がいる。寝ていたところをつっつかれて起きた。" = "Koitsu's profile Name:Koitsu gender:Boy Age:13 Long:10cm  He has friends Aitsu and Soitsu. When he was sleeping, he had picked and woke up."
+
+"分" = "minutes";
+
+"秒" = "seconds";
